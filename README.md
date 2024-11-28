@@ -32,7 +32,7 @@ All projects here are aimed at **beginner programmers** and cover simple-to-medi
      - Functions
      - Loops
      - User input handling
-   - **Link**: [Grocery Store Inventory Management](./grocery_inventory.cpp)
+   - **Link**: [Grocery Store Inventory Management](./Full-store-Code.cpp)
 
 ### 2. **Other Projects**
    - **Description**: Stay tuned! More beginner-level C++ projects will be uploaded soon.
