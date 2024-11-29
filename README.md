@@ -70,6 +70,7 @@ This README provides a flexible structure for adding new projects as you upload 
 | [0136-single-number](https://github.com/ChTayyabMehmood/cPP/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ChTayyabMehmood/cPP/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/ChTayyabMehmood/cPP/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ChTayyabMehmood/cPP/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ChTayyabMehmood/cPP/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -115,4 +116,8 @@ This README provides a flexible structure for adding new projects as you upload 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChTayyabMehmood/cPP/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ChTayyabMehmood/cPP/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
