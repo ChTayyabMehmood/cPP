@@ -66,6 +66,7 @@ This README provides a flexible structure for adding new projects as you upload 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ChTayyabMehmood/cPP/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ChTayyabMehmood/cPP/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ChTayyabMehmood/cPP/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/ChTayyabMehmood/cPP/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ChTayyabMehmood/cPP/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -97,4 +98,5 @@ This README provides a flexible structure for adding new projects as you upload 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ChTayyabMehmood/cPP/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ChTayyabMehmood/cPP/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
