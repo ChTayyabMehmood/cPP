@@ -58,3 +58,15 @@ All projects here are aimed at **beginner programmers** and cover simple-to-medi
 
 This README provides a flexible structure for adding new projects as you upload them. You can simply add new sections under the "Projects Included" heading as needed.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/ChTayyabMehmood/cPP/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/ChTayyabMehmood/cPP/tree/master/0283-move-zeroes) |
+<!---LeetCode Topics End-->
