@@ -65,6 +65,7 @@ This README provides a flexible structure for adding new projects as you upload 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ChTayyabMehmood/cPP/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ChTayyabMehmood/cPP/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ChTayyabMehmood/cPP/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -74,8 +75,21 @@ This README provides a flexible structure for adding new projects as you upload 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ChTayyabMehmood/cPP/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ChTayyabMehmood/cPP/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ChTayyabMehmood/cPP/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ChTayyabMehmood/cPP/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ChTayyabMehmood/cPP/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ChTayyabMehmood/cPP/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
