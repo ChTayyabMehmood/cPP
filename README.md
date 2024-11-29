@@ -64,9 +64,18 @@ This README provides a flexible structure for adding new projects as you upload 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ChTayyabMehmood/cPP/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/ChTayyabMehmood/cPP/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/ChTayyabMehmood/cPP/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ChTayyabMehmood/cPP/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ChTayyabMehmood/cPP/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
