@@ -99,4 +99,12 @@ This README provides a flexible structure for adding new projects as you upload 
 | ------- |
 | [0136-single-number](https://github.com/ChTayyabMehmood/cPP/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ChTayyabMehmood/cPP/tree/master/0137-single-number-ii) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ChTayyabMehmood/cPP/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ChTayyabMehmood/cPP/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
