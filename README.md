@@ -56,6 +56,10 @@ All projects here are aimed at **beginner programmers** and cover simple-to-medi
 4. **Future Projects**: Placeholder for additional projects you'll upload in the future.
 5. **Technologies and Concepts**: Summarized to make the repository easy to navigate and understand.
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+
 This README provides a flexible structure for adding new projects as you upload them. You can simply add new sections under the "Projects Included" heading as needed.
 
 
