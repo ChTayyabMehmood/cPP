@@ -77,6 +77,7 @@ This README provides a flexible structure for adding new projects as you upload 
 | [0238-product-of-array-except-self](https://github.com/ChTayyabMehmood/cPP/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ChTayyabMehmood/cPP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ChTayyabMehmood/cPP/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/ChTayyabMehmood/cPP/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
