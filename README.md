@@ -69,6 +69,7 @@ This README provides a flexible structure for adding new projects as you upload 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChTayyabMehmood/cPP/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/ChTayyabMehmood/cPP/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ChTayyabMehmood/cPP/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChTayyabMehmood/cPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ChTayyabMehmood/cPP/tree/master/0136-single-number) |
@@ -83,6 +84,7 @@ This README provides a flexible structure for adding new projects as you upload 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChTayyabMehmood/cPP/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/ChTayyabMehmood/cPP/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/ChTayyabMehmood/cPP/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChTayyabMehmood/cPP/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
