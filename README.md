@@ -78,11 +78,13 @@ This README provides a flexible structure for adding new projects as you upload 
 | [0268-missing-number](https://github.com/ChTayyabMehmood/cPP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ChTayyabMehmood/cPP/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ChTayyabMehmood/cPP/tree/master/0485-max-consecutive-ones) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ChTayyabMehmood/cPP/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChTayyabMehmood/cPP/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/ChTayyabMehmood/cPP/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ChTayyabMehmood/cPP/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,4 +137,8 @@ This README provides a flexible structure for adding new projects as you upload 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ChTayyabMehmood/cPP/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ChTayyabMehmood/cPP/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
