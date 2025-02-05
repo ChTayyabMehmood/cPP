@@ -82,6 +82,7 @@ This README provides a flexible structure for adding new projects as you upload 
 | [0268-missing-number](https://github.com/ChTayyabMehmood/cPP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ChTayyabMehmood/cPP/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ChTayyabMehmood/cPP/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ChTayyabMehmood/cPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ChTayyabMehmood/cPP/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChTayyabMehmood/cPP/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -146,6 +147,7 @@ This README provides a flexible structure for adding new projects as you upload 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChTayyabMehmood/cPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ChTayyabMehmood/cPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/ChTayyabMehmood/cPP/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ChTayyabMehmood/cPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ChTayyabMehmood/cPP/tree/master/0792-binary-search) |
 ## Simulation
 |  |
