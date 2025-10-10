@@ -69,6 +69,7 @@ This README provides a flexible structure for adding new projects as you upload 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChTayyabMehmood/cPP/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/ChTayyabMehmood/cPP/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ChTayyabMehmood/cPP/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ChTayyabMehmood/cPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChTayyabMehmood/cPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -91,6 +92,7 @@ This README provides a flexible structure for adding new projects as you upload 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChTayyabMehmood/cPP/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/ChTayyabMehmood/cPP/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ChTayyabMehmood/cPP/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/ChTayyabMehmood/cPP/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChTayyabMehmood/cPP/tree/master/2271-rearrange-array-elements-by-sign) |
