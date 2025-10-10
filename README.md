@@ -134,6 +134,7 @@ This README provides a flexible structure for adding new projects as you upload 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ChTayyabMehmood/cPP/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/ChTayyabMehmood/cPP/tree/master/0203-remove-linked-list-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -157,4 +158,8 @@ This README provides a flexible structure for adding new projects as you upload 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChTayyabMehmood/cPP/tree/master/2271-rearrange-array-elements-by-sign) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ChTayyabMehmood/cPP/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
