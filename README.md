@@ -169,6 +169,7 @@ This README provides a flexible structure for adding new projects as you upload 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ChTayyabMehmood/cPP/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/ChTayyabMehmood/cPP/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/ChTayyabMehmood/cPP/tree/master/0328-odd-even-linked-list) |
 ## String
 |  |
 | ------- |
