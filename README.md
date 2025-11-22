@@ -179,4 +179,20 @@ This README provides a flexible structure for adding new projects as you upload 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ChTayyabMehmood/cPP/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChTayyabMehmood/cPP/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChTayyabMehmood/cPP/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChTayyabMehmood/cPP/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChTayyabMehmood/cPP/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
