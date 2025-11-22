@@ -19,7 +19,7 @@ public:
             traversal(curr->left);
             traversal(curr->right);
 
-        }
+        } 
     vector<int> preorderTraversal(TreeNode* root) {
 
         traversal(root);
